@@ -65,7 +65,7 @@ class Translated():
             "Русский": "ru",
             "English": "en",
             "Français": "fr",
-            "Український": "uk",
+            "Українська": "uk",
             "Deutsch": "de",
             "Italiano": "it",
             "Polski": "pl",
