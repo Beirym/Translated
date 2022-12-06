@@ -32,19 +32,19 @@ from translated.translated import Translated
     
    **from_lang**
 
-    Language code of language from which will be completed translate
+    Language code of language from which will be completed translate.
     
    **to_lang**
 
-    Language code of language for which will be completed translate
+    Language code of language for which will be completed translate.
     
    **exceptions**
    
-    List with words which don't will be translated
+    List with words which don't will be translated.
     
    **slash_space**
    
-     The presence of auto-spaces in slashes
+     The presence of auto-spaces after slashes.
      
      True - leave spaces;
      False - remove spaces.
